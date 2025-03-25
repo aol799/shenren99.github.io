@@ -1,0 +1,129 @@
+香港凤凰电影 凤凰中文：http://121.24.99.177:8090/hls/62/index.m3u8
+http://182.136.215.165:4022/udp/239.93.0.162:2192
+凤凰资讯 标清：http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+http://121.24.99.177:8090/hls/72/index.m3u8
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+
+
+CHANNAL V:http://125.71.156.120:4000/udp/239.93.0.157:2194
+香港TVB星河：https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+香港无线新闻：http://live.cooltv.top/tv/tvb.php?id=0
+凤凰中文：http://php.17186.eu.org/phtv/fhzw.m3u8
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+
+澳亚卫视：https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+CNN 美国：https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN 新加破：https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+日本全天新闻：https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+中央6台：http://121.23.184.27:808/hls/6/index.m3u8
+FOX Business  美国：http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+ESPN   美国：http://143.244.60.30/ESPN/index.m3u8
+
+ 荔枝台 http://glive.grtn.cn/live/lizhi.m3u8
+ 
+Global NEWS 加拿大：https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+
+NHK WORLD JAPAN：https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+KBS WORLD 韩国：https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+
+韩国歌团：https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+
+韩国美女：
+https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
+
+韩国动感女：https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+
+翡翠台  http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+
+星河台 http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
+
+明珠台  http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+
+寰宇新闻http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
+
+中天新闻  http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
+
+香港TVB娱乐新闻台：https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+ 
+澳门莲花：http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
+
+龙华电影：http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
+Movie Plus 电影日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+
+Rock Action 电影：http://210.210.155.37:80/dr9445/h/h15/01.m3u8
+
+Rakuten Action 1 电影：https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action 2电影：https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+Rakuten Action 3电影： https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8                
+fashion Paris  https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8  
+
+  
+
+AMC Thrillers 电影：https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+AMC 电影：https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+asiancrush 亚洲电影：https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+
+
+Hollywood电影：http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+
+科幻电影: http://www.51romzj.love:35455/huya/11602034
+
+广元电影：https://pull.kktv8.com/livekktv/128600025.flv
+tvN Movies 韩国：http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+MTV Japan：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+
+Action Movie: http://51.159.104.29:8080/action/index.m3u8
+
+东森电影：http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+
+东森洋片：http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
+
+Hollywood电影：http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+
+CINEMAS电影：http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+
+HBO原创电影：http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+
+香港翡翠台：http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+
+美亚电影台：http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+
+NASA TV 1 美国：https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+天映频道 电影：http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+CHC动作电影：http://115.60.241.249:2000/rtp/225.1.4.208:1261
+CHC高清电影：http://59.55.35.92:20000/hls/67/index.m3u8
+CHC家庭影院：http://59.55.35.92:20000/hls/66/index.m3u8
+
+成人直播源 (不满18岁勿看)：
+
+Brazzers：http://23.237.100.82:8000/BRAZZERS/index.m3u8
+Brazzers：http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Brazzers：https://cdn-nvm-chicago.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+Desire：http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+DORCEL TV：https://cdn-nvm-chicago.lolokoko.tv/dorceltv.stream/chunks.m3u8
+DORCEL TV：http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+EROX：http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+EROXXX：http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+EXTASY：http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Hustler：http://23.237.100.82:8000/HUSTLER/index.m3u8
+Hustler：https://cdn-nvm-chicago.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+Hustler：https://live.iptvxxx.net/hustlertv.m3u8
+Jenny For You：https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+Miami TV：https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+Penhouse：http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+PenhouseGold: http://51.159.102.100/PenthouseGold/index.m3u8
+Playboy：http://23.237.100.82:8000/PLAYBOY/index.m3u8
+Playboy：http://213.13.16.138/shls/LIVE%24Playboy_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+Playboy HD：http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Private：https://cdn-nvm-chicago.lolokoko.tv/Private.stream/playlist.m3u8
+RedLight HD：http://51.159.102.100/RedlightHD/index.m3u8
+RedLight HD：https://cdn-nvm-chicago.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
